@@ -1,0 +1,14 @@
+Package: cydiastore_com.a3tweaks.auxo-le_v1.1.1~beta1
+Name: Auxo
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Auxo is a new design of a standard switcher.
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: A3tweaks <A3tweaks@gmail.com>
+Section: Tweaks
+Depends: advancedpreferences_1.0.0.deb, preferenceloader_2.2.4~beta1_iphoneos-arm.deb, applist_1.5.16~beta1_iphoneos-arm.deb
+Filename: debs/cydiastore_com.a3tweaks.auxo-le_v1.1.1~beta1.deb
+Size: 1599982
+MD5sum: 4c17d6abd96f4d3262f8c036dc5c6897
+SHA1: e2776a353f4e49fe24dd5a324fb2b66f8b3c3391
+SHA256: 47b90e2a6965da0cfed5c8faccd8734347010cf4a42d5c70c809a40f71286626
